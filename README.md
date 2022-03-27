@@ -2,16 +2,19 @@
 **Клеточная линия: Hsmm**  
 Контроль: (HsmmControlStdAlnRep1.bam)
 Метка файл:
-H2az H2az.bam  
-H3k27ac H3k27ac.bam  
-H3k27me3 H3k27me3.bam  
-H3k36me3 H3k36me3.bam  
-H3k4me1 H3k4me1.bam  
-H3k4me2 H3k4me2.bam  
-H3k4me3 H3k4me3.bam  
-H3k79me2 H3k79me2.bam  
-Ctcf Ctcf.bam  
-
+| Гистоновая метка | Файл         |
+|------------------|--------------|
+| H2az             | H2az.bam      |
+| H3k27ac          | H3k27ac.bam  |
+| H3k27me3         | H3k27me3.bam |
+| H3K36me3         | H3k36me3.bam |
+| H3K4me1          | H3k4me1.bam  |
+| H3K4me2          | H3k4me2.bam  |
+| H3K4me3          | H3k4me3.bam  |
+| H3K79me2         | H3k79me2.bam |
+| Ctcf             | Ctcf.bam     |
+| Ezh239875        | Ezh239875.bam|
+  
 Collab: [тык](https://colab.research.google.com/drive/1QK_wtkZ4-mdD0wsDZsg7TlhymI_eGqvM?usp=sharing)  
 
 ## Картинки
