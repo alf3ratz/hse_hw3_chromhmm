@@ -1,7 +1,7 @@
 **Петропавловский Андрей**  
 **Клеточная линия: Hsmm**  
-Контроль: (HsmmControlStdAlnRep1.bam)
-Метка файл:
+Контроль: (HsmmControlStdAlnRep1.bam / wgEncodeBroadHistoneHsmmControlStdAlnRep1.bam)
+
 | Гистоновая метка | Файл         |
 |------------------|--------------|
 | H2az             | H2az.bam      |
