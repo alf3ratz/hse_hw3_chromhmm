@@ -26,3 +26,19 @@ Collab: [тык](https://colab.research.google.com/drive/1QK_wtkZ4-mdD0wsDZsg7Tl
 ![image](https://user-images.githubusercontent.com/49417479/160264183-0528066e-fc1b-4100-9b23-8b4d4a7342fd.png)
 ![image](https://user-images.githubusercontent.com/49417479/160264196-228ee080-1b0b-49d2-a853-1d2202d861c1.png)
 
+## Эпигенетические типы
+| #  | название                  | описание                                                           |
+|----|---------------------------|--------------------------------------------------------------------|
+| 1  | Repressed heterochromatin | Ассоциируется с Lamina                                             |
+| 2  | Repressed heterochromatin | Ассоциируется с % genome и Lamina                                  |
+| 3  | Exon                      | Активность в H3k36me3, совпадает с экзоном, геном и TES            |
+| 4  | Transcribed gene          | Попадает на метки H3k79me2 и H3k36me3, совпадает с активным геном  |
+| 5  | Transcribed gene          | Попадает на H3k79me2                                               |
+| 6  | Weak enchancer            | Ассоциируется с TES и попадает на попадает на H3k4me1              |
+| 7  | Enchancer                 | Активен на H3k4me1, H3k4me2,H3k27ac, H2az                          |
+| 8  | Weak Enchancer            | Активен на H3k4me1, H3k4me2 и H2az                                 |
+| 9  | Promoter                  | Активен на метках, которые вроде связаны с промоторами             |
+| 10 | Transcriptional factor    | Ассоциируется Ctcf и с Lamina                                      |
+
+![image](https://user-images.githubusercontent.com/49417479/160305858-fc7f67d2-7dc3-437a-9e45-50710b7cc302.png)
+
